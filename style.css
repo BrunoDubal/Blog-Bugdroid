@@ -38,6 +38,8 @@ header{
 
 .menuheader{
     margin-top: 55px;
+    height: 100%;
+    width: 100%;
 }
 
 .menuheader > a{
