@@ -115,6 +115,16 @@ strong{
     padding: 30px;
     text-align: center;
     background-color: #063D1E;
+    position: relative;
+    padding-bottom: 50%;
+}
+
+.video > iframe{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 90%;
+    width: 90%;
 }
 
 .aside{
